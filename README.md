@@ -1,10 +1,11 @@
+
+
 #  IoT-Based Smart Irrigation Monitor (ESP32)
 
 #  Overview
 Smart IoT irrigation monitor automates watering using real-time soil data, improving crop yield and reducing water wastage efficiently.
 This project is built using ESP32 and Soil Moisture Sensor Probes, enabling real-time monitoring and automated irrigation control through IoT communication.
-<img width="600" height="500" alt="IMG_2770 (1)" src="https://github.com/user-attachments/assets/c15c1a91-9f84-4fa2-b218-7bc1805ca15a" />
-
+<img width="600" height="800" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/6599873c-6570-4b22-ae68-d75a4c6dc69b" />
 
 > This project represents a custom-built smart irrigation solution, developed as part of practical work by an<a href="https://digitalmonk.biz/iot-development-company-in-india/"> IoT Development Company in India</a>.
 
@@ -39,7 +40,7 @@ In agriculture, improper irrigation is a major challenge. Farmers often depend o
 Traditional irrigation systems lack real-time monitoring and automation, making them inefficient.
 
 ---
-<img width="500" height="700" alt="Image (76) (2)" src="https://github.com/user-attachments/assets/932a0b61-e68e-4b66-9669-255d67660642" />
+<img width="500" height="600" alt="Untitled design (19)" src="https://github.com/user-attachments/assets/d124557f-ea2e-490f-9bea-89bf23c1dad8" />
 
 
 ##  Solution
